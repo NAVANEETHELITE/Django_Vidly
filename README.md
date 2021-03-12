@@ -1,1 +1,1 @@
-This is my first Django Project, which simply gives info regarding the movies.
+Vidly - a web app which simply gives info regarding the movies.
